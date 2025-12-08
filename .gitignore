@@ -10,4 +10,6 @@ wheels/
 .venv
 
 # Data files
-/data/
+data/
+
+cache/
